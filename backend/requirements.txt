@@ -1,0 +1,8 @@
+commonmark==0.9.1
+Pygments @ file:///private/tmp/pygments-20230806-5921-1vpw7cv/Pygments-2.16.1
+PyYAML @ file:///private/tmp/pyyaml-20230717-6270-1iiwi1j/PyYAML-6.0.1
+rich==12.6.0
+six==1.16.0
+termtyper @ git+https://github.com/kraanzu/termtyper.git@051f4c91e2ddd0691ad629e20623ae235e72ebfc
+textual==0.1.18
+typing_extensions @ file:///private/tmp/python-typing-extensions-20230918-5834-lqn2tt/typing_extensions-4.8.0/dist/typing_extensions-4.8.0-py3-none-any.whl#sha256=a59413bd4c912cdedf47337addcc92dbc24253088639a1960da0e7c4d08453da
