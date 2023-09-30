@@ -1,0 +1,58 @@
+# Node related
+node_modules/
+frontend/node_modules
+npm-debug.log*
+package-lock.json
+
+#Python related
+backend/__pycache__/
+backend/*.py[cod]
+backend/*.pyd
+backend/.Python
+backend/db.sqlite3
+backend/.env
+*.pyc
+*.pyo
+*.pyd
+.Python
+db.sqlite3
+.env
+
+#IDE related
+.vscode/
+
+#OS related
+.DS_Store
+Thumbs.dv
+
+# Vite related
+frontend/dist/
+
+# Virtual env
+venv/
+backend/venv/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
